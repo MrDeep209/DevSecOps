@@ -1,2 +1,2 @@
-sudo apt install ansible python-pip3 -y
+sudo apt install ansible python3-pip -y
 pip3 install pywinrm
